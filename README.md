@@ -43,7 +43,6 @@ Gosto de pegar problemas “bagunçados” e transformar em algo **rodável e ú
 
 --------------------------------------------
 ## Contato
-- LinkedIn: (coloque aqui)
 - E-mail: arthurargerizilio2@gmail.com
 
 --------------------------------------------
