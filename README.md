@@ -34,15 +34,4 @@ Gosto de pegar problemas “bagunçados” e transformar em algo **rodável e ú
   Coletores/scrapers + tratamento, com foco em automatizar extração e preparar dados.  
   https://github.com/ArthurArgeriZilio/Databricks-scrappers
 
---------------------------------------------
-## Como eu costumo organizar as coisas
-- README direto ao ponto (o que é / como rodar / exemplo)
-- projeto “rodável” (dependências e passos claros)
-- estrutura limpa (quando faz sentido: `src/`, `notebooks/`, etc.)
-- automação/qualidade conforme a necessidade (sem overkill)
-
---------------------------------------------
-## Contato
-- E-mail: arthurargerizilio2@gmail.com
-
---------------------------------------------
+  --------------------------------------------
