@@ -8,7 +8,7 @@ Gosto de pegar problemas “bagunçados” e transformar em algo **rodável e ú
 --------------------------------------------
 ## No que eu tô focado agora
 - **Engenharia de Dados:** pipelines, ETL/ELT, integrações e organização do dado pra não virar dívida técnica.
-- **ML / IA:** experimentos e modelos aplicados (e bastante IA como apoio no dia a dia pra acelerar entrega).
+- **ML / IA:** experimentos e modelos aplicados (e bastante IA como apoio no dia a dia).
 - **Databricks:** notebooks/jobs pra processamento e automações.
 - **Power BI / Analytics:** métricas, visuais e dashboards que contam a história certa.
 
